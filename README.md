@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m currently learning **MongoDB, Express.JS**
+- 🌱 I’m currently learning **MongoDB, Express.JS, Django**
 - 💬 Ask me about **React, React Native, GitHub**
 - 📫 How to reach me **poojasawant1030@gmail.com**
 
