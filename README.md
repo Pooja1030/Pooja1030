@@ -1,3 +1,10 @@
+<h2 align="center">⚡ Contribution Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja1030&theme=react-dark" alt="Contribution Graph" />
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Pooja Sawant</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -89,10 +96,6 @@
   </a>
 </p>
 
-<h2 align="center">⚡ Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja1030&theme=github-compact" alt="Contribution Graph" />
-</p>
 
 
 
