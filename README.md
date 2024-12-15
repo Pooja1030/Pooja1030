@@ -1,6 +1,6 @@
 <h2 align="center">⚡ Contribution Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja1030&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja1030&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 
