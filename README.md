@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pooja Sawant</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pooja1030&label=Profile%20views&color=0e75b6&style=flat" alt="pooja1030" />
@@ -11,11 +12,11 @@
   </a>
 </p>
 
+- 🌱 I’m currently learning **MongoDB, Express.JS, Django**  
+- 💬 Ask me about **React, React Native, GitHub**  
+- 📫 How to reach me **poojasawant1030@gmail.com**  
 
-
-- 🌱 I’m currently learning **MongoDB, Express.JS, Django**
-- 💬 Ask me about **React, React Native, GitHub**
-- 📫 How to reach me **poojasawant1030@gmail.com**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +27,8 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
   </a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -88,6 +91,8 @@
   </a>
 </p>
 
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pooja1030&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
@@ -98,4 +103,16 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pooja1030&" alt="GitHub Streak" />
+</p>
+
+---
+
+<h3 align="center">GitHub Contribution Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja1030&bg_color=ffffff&color=000000&line=blue&point=black&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<h3 align="center">GitHub Activity</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pooja1030&theme=default" alt="GitHub Activity Summary" />
 </p>
